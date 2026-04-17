@@ -1,6 +1,6 @@
 cask "maclip" do
-  version "0.1.1"
-  sha256 "e2cf1cfc47bca49c4714e715a9446c7d7a3f1c3f6e98fc01d147c78ab0b63c7c"
+  version "0.2.1"
+  sha256 "d5b4cb9c70ff5f0efacb8103c09e93c644dd84303afc1cca0b4096e02ec8c9ab"
 
   url "https://storage.googleapis.com/maclip-releases/dmg/MaClip-#{version}.dmg"
   name "MaClip"
